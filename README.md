@@ -10,7 +10,7 @@ Can run in
 Note:
 - This code is not mine. I just found it works.
 - I forked from [grub4dos/firadisk](https://github.com/grub4dos/firadisk) and put the [latest releases](https://github.com/chetabahana/firadisk/releases/tag/0.0.1.30).
-- See more detail on the forum discussion: [FiraDisk (latest = 0.0.1.30)](http://reboot.pro/index.php?showtopic=8804)
+- See more detail on the forum discussion: [FiraDisk (latest = 0.0.1.30)](https://reboot.pro/index.php?showtopic=8804)
 
 Thanks for your kind understanding.
 
